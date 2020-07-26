@@ -80,12 +80,12 @@ body {
                 outline: none;
                 cursor: pointer;
             }
-            span {
+            p {
                 padding: 0.5em 0.25em;
                 font-size: 0.65em;
                 width: 80%;
                 margin: 0 auto;
-                p {
+                span {
                     cursor: pointer;
                     display: inline;
                     color: $red;

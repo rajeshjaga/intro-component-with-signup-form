@@ -107,14 +107,14 @@ body {
   cursor: pointer;
 }
 
-#main-container .right-side form span {
+#main-container .right-side form p {
   padding: 0.5em 0.25em;
   font-size: 0.65em;
   width: 80%;
   margin: 0 auto;
 }
 
-#main-container .right-side form span p {
+#main-container .right-side form p span {
   cursor: pointer;
   display: inline;
   color: #ff7a7a;
